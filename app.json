@@ -1,4 +1,3 @@
-
 {
 
     "name": "Gangster Baby Renamer Bot",
@@ -33,6 +32,13 @@
 
          },
 
+        "STRING": {
+
+            "description": "Pyrogram String Session Use  @genStr_Bot",
+
+            "required": true
+
+        },
 
         "API_ID": {
 
@@ -114,5 +120,5 @@
       }
 
     ]
-    
+
 }
